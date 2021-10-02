@@ -1,0 +1,15 @@
+.Checkoutproduct{
+    display: flex;
+}
+.Checkoutproduct_image{
+    object-fit: contain;
+    width: 180px;
+    height: 180px;
+    margin-left: 20px;
+}
+.checkoutproduct_info{
+    padding-left: 20px;
+}
+
+
+
